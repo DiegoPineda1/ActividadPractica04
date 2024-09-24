@@ -1,0 +1,14 @@
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\bin\Debug\net8.0\Actividad Práctica 04.deps.json
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\bin\Debug\net8.0\Actividad Práctica 04.runtimeconfig.json
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\bin\Debug\net8.0\Actividad Práctica 04.dll
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\bin\Debug\net8.0\Actividad Práctica 04.pdb
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\obj\Debug\net8.0\Actividad Práctica 04.csproj.AssemblyReference.cache
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\obj\Debug\net8.0\Actividad Práctica 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\obj\Debug\net8.0\Actividad Práctica 04.AssemblyInfoInputs.cache
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\obj\Debug\net8.0\Actividad Práctica 04.AssemblyInfo.cs
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\obj\Debug\net8.0\Actividad Práctica 04.csproj.CoreCompileInputs.cache
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\obj\Debug\net8.0\Actividad Práctica 04.dll
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\obj\Debug\net8.0\refint\Actividad Práctica 04.dll
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\obj\Debug\net8.0\Actividad Práctica 04.pdb
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\obj\Debug\net8.0\Actividad Práctica 04.genruntimeconfig.cache
+C:\Users\Diego Pineda\Desktop\Progra\Actividad Práctica 04\Actividad Práctica 04\obj\Debug\net8.0\ref\Actividad Práctica 04.dll
